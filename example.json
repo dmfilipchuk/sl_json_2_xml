@@ -1,0 +1,80 @@
+{
+	"type": "TinderUserResult",
+	"count": 1,
+	"exec_time": 2.281499147415161,
+	"results": [
+		{
+			"type": "TinderUser",
+			"id": "5ed1b667c3aa000100ad202f",
+			"number": 4583864937570672,
+			"alias": "alex",
+			"name": "Ale>x",
+			"description": "Liebe es zu schlafen\nWenn du aber nett bist können wir zusammen schlafen 😩",
+			"gender": "m",
+			"age": 21,
+			"city": "Amberg",
+			"interests": [
+				"Tattoos",
+				"Museum",
+				"Music",
+				"Guitarists",
+				"Memes"
+			],
+			"jobs": [
+				{
+					"type": "TinderUserJob",
+					"name": "Ha",
+					"position": "dwlkbnvjkdb"
+
+				},
+
+				{
+					"type": "TinderUserJob",
+					"name": "Ja",
+					"position": "Arbeit"
+
+				}
+			],
+			"educations": [
+				"Schule",
+				"Ja"
+			],
+			"photos": [
+				{
+					"type": "TinderUserPhoto",
+					"id": "4c74fcca-030e-456b-bb30-7b376588df31",
+					"image": "https://images-ssl.gotinder.com/5ed1b667c3aa000100ad202f/original_4c74fcca-030e-456b-bb30-7b376588df31.jpeg",
+					"original_image": "https://images-ssl.gotinder.com/5ed1b667c3aa000100ad202f/original_4c74fcca-030e-456b-bb30-7b376588df31.jpeg"
+				},
+				{
+					"type": "TinderUserPhoto",
+					"id": "dfafc359-57b5-4be9-8b4b-9927f4900857",
+					"image": "https://images-ssl.gotinder.com/5ed1b667c3aa000100ad202f/original_dfafc359-57b5-4be9-8b4b-9927f4900857.jpeg",
+					"original_image": "https://images-ssl.gotinder.com/5ed1b667c3aa000100ad202f/original_dfafc359-57b5-4be9-8b4b-9927f4900857.jpeg"
+				}
+			],
+			"spotify_theme": {
+				"type": "TinderUserSpotifyTheme",
+				"id": "0J56AzG6SlORNS9tA5mMF5",
+				"name": "Bautura Si Manele",
+				"preview_url": "https://p.scdn.co/mp3-preview/f54d1f63d84f473735c185c0c82bdfb0c72e0814?cid=b06a803d686e4612bdc074e786e94062",
+				"authors": [
+					{
+						"type": "TinderSpotifyThemeAuthor",
+						"id": "4sbgJi3VL7O1vS381MsLKn",
+						"name": "Cristi Dules"
+					}
+				],
+				"album": {
+					"type": "TinderSpotifyThemeAlbum",
+					"id": "6v1QjBNb2CVOzu7i4x41ZQ",
+					"name": "Compilatia 1",
+					"image": "https://i.scdn.co/image/ab67616d0000b273c123ea59494dbd474d48c21c"
+				}
+			}
+		}
+	],
+	"error": "",
+	"task_id": "",
+	"status": ""
+}
